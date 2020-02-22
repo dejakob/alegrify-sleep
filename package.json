@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Let your async function sleep for some milliseconds",
   "main": "index.js",
-  "scripts": {
-    "test": "npx jest"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "dejakob",
   "license": "MIT"
